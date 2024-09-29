@@ -15,7 +15,7 @@ export default function Home() {
           priority
         />
         <ol>
-          <li>Hello</li>
+          <li>Hello Harsh</li>
           <li>Save and see your changes instantly.</li>
         </ol>
 
@@ -44,9 +44,7 @@ export default function Home() {
             Read our docs
           </a>
         </div>
-        <Button appName="web" className={styles.secondary}>
-          Open alert
-        </Button>
+        <Button className={styles.secondary} />
       </main>
       <footer className={styles.footer}>
         <a
