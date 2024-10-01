@@ -6,7 +6,7 @@ app.get("/", ({ req, res }: any) => {
   res.json({ msg: "Hello World",URL:BACKEND_URL });
 });
 app.get("/users", ({ req, res }: any) => {
-  res.send(`Hello User ${VALUE} !`);
+  res.send(`Hello User ${VALUE} Okay!`);
 });
 app.listen(3007, () => {
   console.log("Server is running on port 3007");
