@@ -23,6 +23,7 @@
   "dependencies": {
     "@types/express": "^5.0.0",
     "esbuild": "^0.24.0",
-    "turboapp": "file:"
+    "turboapp": "file:",
+    "zod": "^3.23.8"
   }
 }
