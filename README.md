@@ -7,4 +7,6 @@ In this repo the /packages/common module shares some code which is used by both 
 1) npm install
 2) npm run build
 3) npm run dev
+
+
 And all the ports will be activated and u can walk through the simple yet informative project.
